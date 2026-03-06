@@ -23,3 +23,4 @@ The goal is to keep the project **simple, portable, and easy to customize** with
 
   ## Project URL
   [https://github.com/Gargi0117/Mini-project-CV.git](https://github.com/Gargi0117/Mini-project-CV/tree/main)
+  https://roadmap.sh/projects/single-page-cv
