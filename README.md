@@ -22,4 +22,4 @@ The goal is to keep the project **simple, portable, and easy to customize** with
 - Suitable for **personal websites or GitHub Pages**
 
   ## Project URL
-  https://github.com/Gargi0117/Mini-project-CV.git
+  [https://github.com/Gargi0117/Mini-project-CV.git](https://github.com/Gargi0117/Mini-project-CV/tree/main)
