@@ -20,3 +20,7 @@ The goal is to keep the project **simple, portable, and easy to customize** with
 - Print-friendly
 - Can be exported as **PDF from the browser**
 - Suitable for **personal websites or GitHub Pages**
+
+  ## Project URL
+  [https://github.com/Gargi0117/Mini-project-CV.git](https://github.com/Gargi0117/Mini-project-CV/tree/main)
+  https://roadmap.sh/projects/single-page-cv
