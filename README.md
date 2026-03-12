@@ -21,4 +21,5 @@ The goal is to keep the project **simple, portable, and easy to customize** with
 - Can be exported as **PDF from the browser**
 - Suitable for **personal websites or GitHub Pages**
 
-
+## Project Demo
+Live Demo : [Link](https://gargi0117.github.io/Portfolio-Resume-Page/)
